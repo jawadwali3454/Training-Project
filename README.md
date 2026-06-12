@@ -45,4 +45,4 @@ UCI Student Performance Dataset
 Random Forest Regressor performed better and is selected as the final model.
 
 ## 👨‍💻 Author
-Your Name
+Jawad wali
